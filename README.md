@@ -1,78 +1,150 @@
-
+<!-- Animated Header -->
 <div align="center">
 
-# 👋 Welcome to FreeCodes In Telugu!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001F3F,50:0057B8,100:00C6FF&height=220&section=header&text=FreeCodes%20In%20Telugu&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Learn%20%7C%20Build%20%7C%20Deploy%20%7C%20Secure&descAlignY=58&descSize=18" width="100%"/>
 
-### Learn | Build | Deploy | Secure
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=750&lines=Welcome+to+FreeCodes+In+Telugu;Cloud+%7C+DevOps+%7C+DevSecOps;AWS+%7C+Azure+%7C+Kubernetes;Learn+Real+World+Technologies+in+Telugu" />
 
-**Making Cloud Computing, DevOps & Cybersecurity easy to learn in Telugu.**
+<br/>
 
-[![YouTube](https://img.shields.io/badge/YouTube-FreeCodes_In_Telugu-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/results?search_query=freecodes+in+telugu)
-[![GitHub](https://img.shields.io/badge/GitHub-Repositories-black?style=for-the-badge&logo=github)](https://github.com/freecodesintelugu)
+<a href="https://www.youtube.com/results?search_query=freecodes+in+telugu">
+<img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+<a href="https://github.com/freecodesintelugu">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=freecodesintelugu&label=PROFILE%20VIEWS&color=0078D4&style=for-the-badge"/>
 
 </div>
 
 ---
 
-## 🚀 About FreeCodes In Telugu
+## 🚀 About Us
 
-Welcome to **FreeCodes In Telugu**, a learning community focused on practical IT skills and real-world engineering.
+**FreeCodes In Telugu** is a technical learning community focused on making modern IT technologies simple, practical and accessible in Telugu.
 
-Our goal is to make complex technologies simple through hands-on tutorials, projects, and step-by-step explanations.
+🎯 Our mission is to help students, freshers and IT professionals become industry-ready through practical learning and real-world projects.
 
-- ☁️ Cloud Computing – AWS & Microsoft Azure
-- ⚙️ DevOps Engineering & CI/CD Automation
+- ☁️ Cloud Computing – AWS & Azure
+- ⚙️ DevOps Engineering & CI/CD
 - 🐳 Docker & Kubernetes
-- 🏗️ Infrastructure as Code – Terraform
-- 🔐 Cloud Security & DevSecOps
-- 🐧 Linux & Shell Scripting
-- 🤖 Artificial Intelligence, AIOps & MLOps
+- 🔐 Cybersecurity & DevSecOps
+- 🏗️ Infrastructure as Code
+- 🤖 AI, AIOps & MLOps
 - 📊 Monitoring & Observability
-
-## 🛠️ Technologies We Work With
-
-| Category | Technologies |
-|---|---|
-| Cloud | AWS, Microsoft Azure |
-| Containers | Docker, Kubernetes |
-| IaC | Terraform, CloudFormation |
-| CI/CD | GitHub Actions, Jenkins, GitLab CI |
-| Git | Git, GitHub |
-| Monitoring | Prometheus, Grafana, CloudWatch |
-| Security | Trivy, SonarQube, Nuclei |
-| Scripting | Python, Bash, PowerShell |
-| AI/ML | Amazon Bedrock, AIOps, MLOps |
-
-## 📚 Featured Projects
-
-- [AWS Zero to Job](https://github.com/freecodesintelugu/AWS-Zero-to-Job)
-- [Docker Zero to Production](https://github.com/freecodesintelugu/Docker-Zero-to-Production)
-- [Git & GitHub Beginner to Production](https://github.com/freecodesintelugu/Git-GitHub_BEGINNER-PRODUCTION)
-- [SecureTask – Serverless Architecture](https://github.com/freecodesintelugu/SecureTask_Serverless_architecture)
-- [Cloud 3-Tier AWS Project](https://github.com/freecodesintelugu/cloudcart_3_tire_AWS_project)
-- [DevOps Portfolio Project](https://github.com/freecodesintelugu/portfolio_project)
-
-## 🎯 Our Mission
-
-To help students, freshers, and IT professionals become industry-ready engineers through:
-
-- Practical hands-on labs
-- Real-world cloud projects
-- Beginner-friendly learning roadmaps
-- Interview preparation
-- Open-source contributions
-
-## 🌐 Connect With Us
-
-- 📺 YouTube: [FreeCodes In Telugu](https://www.youtube.com/results?search_query=freecodes+in+telugu)
-- 💻 GitHub: [@freecodesintelugu](https://github.com/freecodesintelugu)
+- 🐧 Linux & Automation
 
 ---
 
+## 🛠️ Technology Stack
+
 <div align="center">
+
+### Cloud Platforms
+<img src="https://skillicons.dev/icons?i=aws,azure" />
+
+### DevOps & Infrastructure
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,jenkins,githubactions,git,github" />
+
+### Programming & Scripting
+<img src="https://skillicons.dev/icons?i=python,bash,powershell" />
+
+### Monitoring & Development
+<img src="https://skillicons.dev/icons?i=prometheus,grafana,linux,vscode" />
+
+</div>
+
+---
+
+## 📂 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/freecodesintelugu/AWS-Zero-to-Job">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=freecodesintelugu&repo=AWS-Zero-to-Job&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/freecodesintelugu/Docker-Zero-to-Production">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=freecodesintelugu&repo=Docker-Zero-to-Production&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/freecodesintelugu/Git-GitHub_BEGINNER-PRODUCTION">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=freecodesintelugu&repo=Git-GitHub_BEGINNER-PRODUCTION&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/freecodesintelugu/SecureTask_Serverless_architecture">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=freecodesintelugu&repo=SecureTask_Serverless_architecture&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/freecodesintelugu/cloudcart_3_tire_AWS_project">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=freecodesintelugu&repo=cloudcart_3_tire_AWS_project&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/freecodesintelugu/portfolio_project">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=freecodesintelugu&repo=portfolio_project&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=freecodesintelugu&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=freecodesintelugu&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=freecodesintelugu&theme=tokyonight&hide_border=true" width="70%"/>
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=freecodesintelugu&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+
+</div>
+
+---
+
+## 🎯 What We Build
+
+| Domain | Focus |
+|---|---|
+| ☁️ Cloud | AWS & Azure projects |
+| ⚙️ DevOps | CI/CD automation |
+| 🐳 Containers | Docker & Kubernetes |
+| 🔐 Security | DevSecOps & Cloud Security |
+| 🤖 AI | AIOps & MLOps |
+| 📊 Observability | Monitoring & alerting |
+
+---
+
+## 🌐 Connect With FreeCodes In Telugu
+
+<div align="center">
+
+<a href="https://www.youtube.com/results?search_query=freecodes+in+telugu">
+<img src="https://img.shields.io/badge/YouTube-FreeCodes_In_Telugu-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+<a href="https://github.com/freecodesintelugu">
+<img src="https://img.shields.io/badge/GitHub-FreeCodes_In_Telugu-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
 
 ### 💙 Learn Today. Build Tomorrow.
 
-**FreeCodes In Telugu**
+**Making Technology Simple Through Practical Learning in Telugu.**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001F3F,50:0057B8,100:00C6FF&height=120&section=footer" width="100%"/>
 
 </div>
